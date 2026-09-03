@@ -1,0 +1,7 @@
+"Intervalo","Porcentaje_Teorico","Observaciones_Teoricas","Observaciones_Reales"
+"Media a +1 desviacion","34%",98.6,84
+"Media a -1 desviacion","34%",98.6,117
+"+1 a +2 desviaciones","13.5%",39.15,35
+"-1 a -2 desviaciones","13.5%",39.15,40
+"+2 a +3 desviaciones","2%",5.8,9
+"-2 a -3 desviaciones","2%",5.8,3

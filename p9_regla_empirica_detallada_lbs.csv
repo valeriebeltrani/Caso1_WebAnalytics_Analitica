@@ -1,0 +1,7 @@
+"Intervalo","Teorico_No_Obs","Actual_No_Obs"
+"mean+1sd",99,84
+"mean-1sd",99,117
+"1sd a 2sd",39,35
+"-1sd a -2sd",39,40
+"2sd a 3sd",6,9
+"-2sd a -3sd",6,3
