@@ -1,0 +1,6 @@
+"","Visitas","VisitasUnicas","Ingresos","Utilidad","LibrasVendidas"
+"Visitas",1,0.999,-0.059,-0.02,-0.047
+"VisitasUnicas",0.999,1,-0.069,-0.033,-0.056
+"Ingresos",-0.059,-0.069,1,0.887,0.869
+"Utilidad",-0.02,-0.033,0.887,1,0.72
+"LibrasVendidas",-0.047,-0.056,0.869,0.72,1
